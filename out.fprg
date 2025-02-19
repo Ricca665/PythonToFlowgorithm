@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="tester"/>
+        <attribute name="authors" value="riccx"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value=""/>
+        <attribute name="created" value=""/>
+        <attribute name="edited" value=""/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>            <output expression="&quot;hjkfdgjkhgesjghkfdhjgkfdhjgkdfkh&quot;" newline="True"/>
+            <output expression="&quot;asd&quot;" newline="True"/>
+            <declare name="asd" type="Integer" array="False" size=""/>
+            <input variable="asd"/>
+</body>
+</function>
+</flowgorithm>
